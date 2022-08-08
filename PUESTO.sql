@@ -1,0 +1,10 @@
+insert into PUESTO (ID_PUESTO, NOMBRE, SUELDO) values (1, 'Limpieza', '36080');
+insert into PUESTO (ID_PUESTO, NOMBRE, SUELDO) values (2, 'Cocinero', '52050');
+insert into PUESTO (ID_PUESTO, NOMBRE, SUELDO) values (3, 'Canchero', '60060');
+insert into PUESTO (ID_PUESTO, NOMBRE, SUELDO) values (4, 'Camarógrafo', '44080');
+insert into PUESTO (ID_PUESTO, NOMBRE, SUELDO) values (5, 'Ventas', '8040');
+insert into PUESTO (ID_PUESTO, NOMBRE, SUELDO) values (6, 'Cajero', '32030');
+insert into PUESTO (ID_PUESTO, NOMBRE, SUELDO) values (7, 'Arbitro P', '47060');
+insert into PUESTO (ID_PUESTO, NOMBRE, SUELDO) values (8, 'Arbitro Asis', '12010');
+insert into PUESTO (ID_PUESTO, NOMBRE, SUELDO) values (9, 'Arbitro Adicional', '88010');
+insert into PUESTO (ID_PUESTO, NOMBRE, SUELDO) values (10, 'Arbitro reserva', '1090');

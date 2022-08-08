@@ -1,0 +1,13 @@
+insert into Estadio (ID_ESTADIO, ID_SEDE, NOMBRE, CAPACIDAD, CALLE) values (1, 8, 'Luzhniki Stadium,', 40000, 'Doe Crossing');
+insert into Estadio (ID_ESTADIO, ID_SEDE, NOMBRE, CAPACIDAD, CALLE) values (2, 4, 'Ekaterinburg Arena,', 50000, 'Kingsford');
+insert into Estadio (ID_ESTADIO, ID_SEDE, NOMBRE, CAPACIDAD, CALLE) values (3, 4, 'Saint Petersburg Stadium,', 60000, 'Moulton');
+insert into Estadio (ID_ESTADIO, ID_SEDE, NOMBRE, CAPACIDAD, CALLE) values (4, 10, 'Fisht Stadium,', 70000, 'Main');
+insert into Estadio (ID_ESTADIO, ID_SEDE, NOMBRE, CAPACIDAD, CALLE) values (5, 10, 'Kazan Arena,', 80000, 'Bluestem');
+insert into Estadio (ID_ESTADIO, ID_SEDE, NOMBRE, CAPACIDAD, CALLE) values (6, 4, 'Spartak Stadium,', 49999, 'American Ash');
+insert into Estadio (ID_ESTADIO, ID_SEDE, NOMBRE, CAPACIDAD, CALLE) values (7, 7, 'Mordovia Arena,', 59999, 'Manley');
+insert into Estadio (ID_ESTADIO, ID_SEDE, NOMBRE, CAPACIDAD, CALLE) values (8, 9, 'Kaliningrad Stadium,', 69999, 'Jackson');
+insert into Estadio (ID_ESTADIO, ID_SEDE, NOMBRE, CAPACIDAD, CALLE) values (9, 10, 'Samara Arena,', 79999, 'Victoria');
+insert into Estadio (ID_ESTADIO, ID_SEDE, NOMBRE, CAPACIDAD, CALLE) values (10, 4, 'Luzhniki Stadium,', 49998, 'Dayton');
+insert into Estadio (ID_ESTADIO, ID_SEDE, NOMBRE, CAPACIDAD, CALLE) values (11, 10, 'Rostov Arena,', 59998, 'Maryland');
+insert into Estadio (ID_ESTADIO, ID_SEDE, NOMBRE, CAPACIDAD, CALLE) values (12, 7, 'Nizhny Novgorod Stadium,', 69998, 'Michigan');
+insert into Estadio (ID_ESTADIO, ID_SEDE, NOMBRE, CAPACIDAD, CALLE) values (13, 6, 'Fisht Stadium,', 79998, 'Ludington');
